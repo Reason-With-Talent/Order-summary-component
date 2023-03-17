@@ -1,0 +1,80 @@
+body{
+    background-color: hsl(225, 100%, 94%);
+}
+.rudy img{
+    width: 400px;
+    margin: auto;
+   border-top-right-radius: 15px;
+   border-top-left-radius: 15px;
+   margin-top: 50px;
+   display: flex;
+   align-items: center;
+}
+.mandy{
+    background-color: white;
+    width: 360px;
+    margin: auto;
+    padding: 20px;
+}
+.mandy .or{
+    color: hsl(223, 47%, 23%);
+    font-family: Red Hat Display;
+    font-size: 15px;
+    text-align: center
+}
+.mandy .you{
+    font-family:Red Hat Display;
+    color:  hsl(224, 23%, 55%);
+    font-size: 15px;
+    padding-left: 18px;
+    padding-right: 18px;
+    text-align: center;
+}
+.temi{
+    background-color: hsl(236, 53%, 94%);
+    border-radius: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.temi1{
+    display: flex;
+    align-items: center;
+}
+
+.tems h4{
+    font-family:Red Hat Display;
+    color:  hsl(223, 47%, 23%);
+    font-size: 12px;
+    margin: 0;
+}
+.tems span{
+    font-family:Red Hat Display;
+    color:  hsl(224, 23%, 55%);
+    font-size: 10px;  
+}
+a{
+    font-family:Red Hat Display;
+    font-size: 15px;
+   color:  hsl(245, 75%, 52%);
+    text-decoration: underline;
+}
+.bas button{
+    font-family:Red Hat Display;
+    border-radius: 15px;
+    background-color: hsl(245, 79%, 53%);
+    color: hsl(0, 0%, 100%);
+    padding: 10px;
+    width: 100%;
+    margin-top: 10px;
+    border: none;
+}
+.mandy .love{
+    font-family:Red Hat Display;
+    color:  hsl(224, 23%, 55%);
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
